@@ -1,0 +1,16 @@
+# 全库统一 LF（Windows 检出也是 LF）
+* text=auto eol=lf
+
+# 二进制文件不进文本归一化
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.exe binary
+*.dll binary
+*.zip binary
+*.pyc binary
+*.mp3 binary
+*.mp4 binary
+*.wav binary
